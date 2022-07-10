@@ -5,13 +5,10 @@
 ## let's setup a github repository for this api
  - create an empty repo on github and push the contrents to it
 
-## installation
- - express
- - mysql
- - cors
- - nodemon
- - body-parser
- - morgan
+## what to install installation
+ ```cmd
+ npm install
+ ```
 
 ## Setting up the middlewares
  - cors
