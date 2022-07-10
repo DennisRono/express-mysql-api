@@ -10,9 +10,11 @@
  - mysql
  - cors
  - nodemon
+ - body-parser
 
 ## Setting up the middlewares
  - cors
+ - body-parser
 
 ## Database connection details
  - password
