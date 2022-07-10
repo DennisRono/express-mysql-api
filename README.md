@@ -11,10 +11,12 @@
  - cors
  - nodemon
  - body-parser
+ - morgan
 
 ## Setting up the middlewares
  - cors
  - body-parser
+ - morgan
 
 ## Database connection details
  - password
